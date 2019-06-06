@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_370c68174365459a7b624255a294bb33028ed6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_09acfbcfbc9bd06a9f9279f54e69d36c32581d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e5305602d6c8fb5e05aa32e56f00120ab39f6a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7aad2f4df60dc69e0c016e9feac2f46f7f9dfef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_0759ca2ec5408e38109ee3290cc06dec5984aa7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_fd618eec78ffe9cc59e1aa29d3f1703a7b538454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_2c2158fc4cbf7517dd77b44d032f33dd2c4051c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_1f4650eef1a38f4da4b2ebd4f68a8d6ed5ec5260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_370c68174365459a7b624255a294bb33028ed6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_09acfbcfbc9bd06a9f9279f54e69d36c32581d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_61c55d5ecfe614fc2aa823b3ff9d02a2edc31ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_3330e14f2ce9c497844faf517f6b6bdd1e42a3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_1275027b2b0e6e96f54050d734b4890b25ef88ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.1_c9325d17d07d220ece10caf714bbf3c3a05a9ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e3e1dfcdf1091ad62101747e52cf18170b899a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f249e1b30f1580414baee6e2d0ba2c97d779c1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_61c55d5ecfe614fc2aa823b3ff9d02a2edc31ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_268e4c11660abdd9c1f760d78f31bcb83487605b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_1f3bf3f4f58d6841ca47207d4edc8089908b0d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.1_5b4cfacbaecd5cb5ca7f8f74aaf856b287431b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_2c2158fc4cbf7517dd77b44d032f33dd2c4051c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.1_0af473da17ca14846e365fdf6ed544ece9e76f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.1_9b54975ca9f832aa12d1f1abfd9cdb646e8e597a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_7aad2f4df60dc69e0c016e9feac2f46f7f9dfef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.1_29c61faec128abfcb00cb27ecb64be9e31780e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_63fa2fb61b9376136e73dbd9ace201a1cabbbafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_e5305602d6c8fb5e05aa32e56f00120ab39f6a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_fd618eec78ffe9cc59e1aa29d3f1703a7b538454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4b91c4ae755ca37d17ce014956080b4ead7f4ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_945e445da9f44c865c6e238e84cc491c33a3517a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_4b91c4ae755ca37d17ce014956080b4ead7f4ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/support-annotations-25.0.1_f7cd006c6fc7dd318a34e18c40d060601e87a723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_48a0a701d0871011d6916d0704fa1529186e2f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_945e445da9f44c865c6e238e84cc491c33a3517a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_74cbba56f37c24fa0e1bdb8ed2e3166977c8049a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_48a0a701d0871011d6916d0704fa1529186e2f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.1_db1f9d656897f3370eb8aca256c2c47939ad6bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.1_06fd0fdefbaef49cc5d535dcf489133d769b3166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_b0fb455395e00e04ac090610b275c4ebf6ffd18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_e3e1dfcdf1091ad62101747e52cf18170b899a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_874c19e87d9f4391a0235378e9df72ac73031fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.1_d6b6a0eee67b0ccade0eac741e0b9b3964e5123c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.1_9be2c42dbc6f5d4be9545053e5807b52b25018bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/javax.inject-1_b64d0aaebd612e64d8c19002cd6f1c00e9fa086c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_874c19e87d9f4391a0235378e9df72ac73031fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1f4650eef1a38f4da4b2ebd4f68a8d6ed5ec5260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.53.3_06eb4d036a451cd6e842858c2e28633fcb48c7bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.1_3d4ccb6c6b955f0a269a8fd679fcb2d8209aaa01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_1b72c882262e37f1d774c2444672e5e9acb0713f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_1b72c882262e37f1d774c2444672e5e9acb0713f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b64d0aaebd612e64d8c19002cd6f1c00e9fa086c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_b0fb455395e00e04ac090610b275c4ebf6ffd18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/IRack/Code/InsideOne/io-challenge/react-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_06eb4d036a451cd6e842858c2e28633fcb48c7bd.jar" />
+    </item>
+
+</items>

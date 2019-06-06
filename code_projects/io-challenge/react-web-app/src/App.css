@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+
+  --primaryText: #494949;
+  --secondary: #8d9aa3;
+  --cian : #00b5cc;
+  --light : #e7edf4;
+  
+}
+
+@font-face {
+  font-family: 'Lato-Heavy';
+  src: url('assets/lato/Lato-Heavy.eot');
+  src: url('assets/lato/Lato-Heavy.eot?#iefix') format('embedded-opentype'),
+       url('assets/lato/Lato-Heavy.woff2') format('woff2'),
+       url('assets/lato/Lato-Heavy.woff') format('woff'),
+       url('assets/lato/Lato-Heavy.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Lato-Medium';
+  src: url('assets/lato/Lato-Medium.eot');
+  src: url('assets/lato/Lato-Medium.eot?#iefix') format('embedded-opentype'),
+       url('assets/lato/Lato-Medium.woff2') format('woff2'),
+       url('assets/lato/Lato-Medium.woff') format('woff'),
+       url('assets/lato/Lato-Medium.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}

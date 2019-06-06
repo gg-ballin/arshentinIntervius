@@ -1,0 +1,43 @@
+
+.dashboard {
+    flex-direction: row;
+    display: flex;
+
+    font-family: 'Lato-Medium';
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    color: var(--primaryText);
+}
+
+.dashboard .tickets-box {
+    order: 1;
+    width: 384px;
+    height: 100vh;
+    padding-top: 52px;
+}
+
+.dashboard .map {
+    order: 2;
+    background-color: #66ab66;
+    flex-grow: 1;
+}
+
+.dashboard .title {
+    font-family: 'Lato-Heavy';
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    padding-left: 40px;
+}
+
+.dashboard .title-line {
+    width:51px;
+    height:2px;
+    background: var(--cian);
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-bottom: 35px;
+}
