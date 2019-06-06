@@ -1,4 +1,4 @@
-#               Arshentin Intervius
+# Arshentin Intervius
 
 > Bienvenides a mi pagina de Youtube.
 
@@ -13,3 +13,5 @@ Se puede agregar articulos (ingles y español), proyectos que les hicieron hacer
 Algunos de los proyectos que van a estar en este repo no estan finalizados, pero si tendran su consigna para que los puedan realizar o para tener una base. Tambien puede que esten pesimamente hechos pues yo tambien aplique y no quede!
 
 Si tienen alguna duda o consulta, no me envien una consulta por mail, chateenme a mi cuenta de twitter `@germige_`
+
+Tener en cuenta que estos proyectos son usando React/React Native y node.js. Algunos tienen Redux tambien!
