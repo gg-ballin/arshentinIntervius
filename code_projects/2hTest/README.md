@@ -1,6 +1,8 @@
 # 2hTest
 
-La consigna se encuentra en `FullStack Excercise - 2hdesign.pdf`. El ejercicio tira este error
+#Consigna 
+
+se encuentra en `FullStack Excercise - 2hdesign.pdf`. El ejercicio tira este error
 
 (node:25156) UnhandledPromiseRejectionWarning: Error: Unauthorized
     at Request.http [as _callback] (node_modules/@sendgrid/client/src/classes/client.js:124:25)
