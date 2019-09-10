@@ -1,4 +1,4 @@
-# Arshentin Intervius
+# Entrevistas tecnicas en trabajos con React (y también algo de Redux)
 
 > Bienvenides a mi pagina de Youtube.
 
