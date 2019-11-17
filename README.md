@@ -2,7 +2,7 @@
 
 > Bienvenides a mi página de Youtube.
 
-Este es un repositorio que va a contener toda la ayuda posible para que las personas que estan incursionando en `las entrevistas laborales técnicas` puedan tener info y puedan ir más seguros y seguras a la hora de enfrentar a recruiters y líderes técnicos.
+Este es un repositorio que va a contener toda la ayuda posible para que las personas que estan incursionando en `las entrevistas laborales técnicas`, puedan tener info y puedan ir más seguros y seguras a la hora de enfrentar a recruiters y líderes técnicos.
 
 Este repositorio será público y si quieren pueden hacer PR's si vieron cosas piolas que se le pueda agregar al repo. 
 
