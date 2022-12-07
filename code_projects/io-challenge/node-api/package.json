@@ -6,7 +6,7 @@
     "babel": "^5.8.21",
     "body-parser": "^1.17.1",
     "dotenv": "^1.2.0",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "mongoose": "^4.11.6",
     "mongoose-paginate": "^4.0.1",
     "path": "^0.12.7",
